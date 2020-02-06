@@ -15,5 +15,6 @@ The project follows the follow steps:
 -   Step 7: Complete Project Write Up
 # How to Use the Repository
 All relevant information and the project steps outlined above are described and executed in the Notebook [Capstone Project](https://github.com/chrisk2b/Movie-Ratings-Data-Lake/blob/master/notebooks/Capstone%20Project%20.ipynb). The data dictionary can be found [here](https://github.com/chrisk2b/Movie-Ratings-Data-Lake/tree/master/data-dictionary).
+
 **Important:** The ratings data in the [data](https://github.com/chrisk2b/Movie-Ratings-Data-Lake/tree/master/data) contains just a sample of the original dataset since the original can not be uploaded to GitHub due to its size (100M recodrs). In order to fully reconstruct the results, the original dataset needs to be downloaded from [here](https://grouplens.org/datasets/movielens/), cf. also the Notebook for details.
 
